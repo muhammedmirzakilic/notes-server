@@ -1,6 +1,6 @@
-###A basic deno server for [medium article](https://medium.com/@muhammedmirzakilic/deno-101-part-3-crud-api-30f0a2bf8223)
+### A basic deno server for [medium article](https://medium.com/@muhammedmirzakilic/deno-101-part-3-crud-api-30f0a2bf8223)
 
-###Installation
+### Installation
 
 If deno is not installed, install deno from [here](https://github.com/denoland/deno_install)
 
